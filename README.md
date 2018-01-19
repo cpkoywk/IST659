@@ -11,8 +11,8 @@ client/server architectures, web-based database applications, data warehousing, 
 
 # Table of Contents
 
-* [Final Project](#Final-Project)
-    * [Explore](#Explore)
+* [Final Project](## Final-Project)
+    * [Explore](###Explore)
 * [The Vector Space Model and a Search Engine](#The-Vector-Space-Model-and-a-Search-Engine)
     * [In Code](#In-Code)
 * [Naive Bayes](#Naive-Bayes)
@@ -22,7 +22,7 @@ client/server architectures, web-based database applications, data warehousing, 
 
 
 ## Final-Project
-### Explore
+### Introduction
 For the final project of this course, I have designed a Health Insurance Claim Management System for a clinic. The current one she is using is not too easy to navigate and not efficient enough: it has too much functions/options that an acupuncture clinic does not need, so it takes extra time to navigate through these redundant options input each patient's entry. Therefore, a simple design that focuses on the insurance billing might be a good start point for my project.
 
 I Created the database structure using Microsoft’s Access and SQL Server
