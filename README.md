@@ -11,8 +11,8 @@ client/server architectures, web-based database applications, data warehousing, 
 
 # Table of Contents
 
-* [Final Project](## Final-Project)
-    * [Explore](###Explore)
+* [Final Project](##Final-Project)
+    * [Explore](###Introduction)
 * [The Vector Space Model and a Search Engine](#The-Vector-Space-Model-and-a-Search-Engine)
     * [In Code](#In-Code)
 * [Naive Bayes](#Naive-Bayes)
