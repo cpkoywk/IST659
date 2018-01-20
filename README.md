@@ -9,19 +9,13 @@ Implementation through assignments, lab exercises and course projects. This cour
 database concepts such as transaction management and concurrency control, distributed databases, multi-tier
 client/server architectures, web-based database applications, data warehousing, and NoSQL.
 
-# Table of Contents
-
-* [Final Project](##Final-Project)
-    * [Explore](###Introduction)
-* [The Vector Space Model and a Search Engine](#The-Vector-Space-Model-and-a-Search-Engine)
-    * [In Code](#In-Code)
-* [Naive Bayes](#Naive-Bayes)
-    * [Multinomial Naive Bayes and Other Likelihood Functions](#Multinomial-Naive-Bayes-and-Other-Likelihood-Functions)
-    * [Picking Hyperparameters for Naive Bayes and Text Maintenance](#Picking-Hyperparameters-for-Naive-Bayes-and-Text-Maintenance)
-* [Interpretation](#Interpretation)
+Table of Contents
+=================
+  * [Final Project](#final-project)
+      * [Introduction](#introduction)
 
 
-## Final-Project
+## Final Project
 ### Introduction
 For the final project of this course, I have designed a Health Insurance Claim Management System for a clinic. The current one she is using is not too easy to navigate and not efficient enough: it has too much functions/options that an acupuncture clinic does not need, so it takes extra time to navigate through these redundant options input each patient's entry. Therefore, a simple design that focuses on the insurance billing might be a good start point for my project.
 
